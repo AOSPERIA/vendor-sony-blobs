@@ -20,12 +20,14 @@ PRODUCT_PACKAGES += \
 	libq3dtools_adreno \
 	libC2D2 \
 	libCB \
+	libOpenCL \
 	libRSDriver_adreno \
 	libadreno_utils \
 	libc2d30-a3xx \
+	libc2d30-a4xx \
 	libgsl \
 	libllvm-qcom \
 	librs_adreno \
 	librs_adreno_sha1 \
-        libbccQTI \
+	libsc-a2xx \
 	libsc-a3xx
